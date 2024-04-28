@@ -27,6 +27,6 @@ I'm Alex Lee,a full stack developer, dedicated to simplicity and elegance.
 [![X](https://img.shields.io/badge/-Alex_Lee-1D9BF0?logo=X)](https://steamcommunity.com/profiles/76561199213817731)&emsp;
 
 <div style="display: flex; justify-content: center;">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=mlhiter&hide_title=true&show_icons=true&line_height=21" />&emsp;
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlhiter&layout=compact" />&emsp;
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=mlhiter&hide_title=true&show_icons=true&line_height=21" />&emsp;
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlhiter&layout=compact" />&emsp;
 </div>
