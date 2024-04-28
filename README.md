@@ -1,12 +1,12 @@
 ### Hi there 👋
 
+---
+
 ![mlhiter](https://komarev.com/ghpvc/?username=mlhiter)
 [![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19254%26project%3D%26in=0)](https://codetime.dev)
 
----
-
-### I'm Alex Lee
+I'm Alex Lee,a full stack developer, dedicated to simplicity and elegance.
 
 - 🔭 I’m currently working on [jotlin](https://github.com/labring/jotlin).
 - 🌱 I’m currently learning AI&editor principle,psychology&full-stack
