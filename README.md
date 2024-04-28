@@ -8,7 +8,8 @@
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19254%26project%3D%26in=0)](https://codetime.dev)&emsp;
 
 [![VScode](https://img.shields.io/badge/Coding-VS%20Code-blue)](https://code.visualstudio.com/)&emsp;
-[![Static Badge](https://img.shields.io/badge/Writing-Logseq-blue)](https://logseq.com/)
+[![Logseq](https://img.shields.io/badge/Writing-Logseq-blue)](https://logseq.com/)&emsp;
+[![Omnivore](https://img.shields.io/badge/Reading-Omnivore-blue)](https://omnivore.app/)&emsp;
 
 I'm Alex Lee,a full stack developer, dedicated to simplicity and elegance.
 
@@ -24,7 +25,7 @@ I'm Alex Lee,a full stack developer, dedicated to simplicity and elegance.
 
 [![Gmail](https://img.shields.io/badge/-mlhiter955%40gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mlhiter955@gmail.com)&emsp;
 [![Steam](https://img.shields.io/badge/-mlhiter-155285?logo=steam)](https://steamcommunity.com/profiles/76561199213817731)&emsp;
-[![X](https://img.shields.io/badge/-Alex_Lee-1D9BF0?logo=X)](https://steamcommunity.com/profiles/76561199213817731)&emsp;
+[![X](https://img.shields.io/badge/-Alex_Lee-1D9BF0?logo=X)](https://twitter.com/mlhiter)&emsp;
 
 <div style="display: flex; justify-content: center;">
   <img height="161px" src="https://github-readme-stats.vercel.app/api?username=mlhiter&hide_title=true&show_icons=true&line_height=21" />&emsp;
