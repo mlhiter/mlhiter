@@ -3,8 +3,11 @@
 ---
 
 ![mlhiter](https://komarev.com/ghpvc/?username=mlhiter)
-[![Static Badge](https://img.shields.io/badge/-mlhiter955%40gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mlhiter955@gmail.com)
+[![Gmail](https://img.shields.io/badge/-mlhiter955%40gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mlhiter955@gmail.com)
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19254%26project%3D%26in=0)](https://codetime.dev)
+
+[![VScode](https://img.shields.io/badge/Coding-VS%20Code-blue)](https://code.visualstudio.com/)
+[![Static Badge](https://img.shields.io/badge/Writing-Logseq-blue)](https://logseq.com/)
 
 I'm Alex Lee,a full stack developer, dedicated to simplicity and elegance.
 
