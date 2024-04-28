@@ -2,18 +2,18 @@
 
 ---
 
-![mlhiter](https://komarev.com/ghpvc/?username=mlhiter)
-[![Gmail](https://img.shields.io/badge/-mlhiter955%40gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mlhiter955@gmail.com)
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19254%26project%3D%26in=0)](https://codetime.dev)
+![mlhiter](https://komarev.com/ghpvc/?username=mlhiter)&emsp;
+[![Gmail](https://img.shields.io/badge/-mlhiter955%40gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mlhiter955@gmail.com)&emsp;
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19254%26project%3D%26in=0)](https://codetime.dev)&emsp;
 
-[![VScode](https://img.shields.io/badge/Coding-VS%20Code-blue)](https://code.visualstudio.com/)
+[![VScode](https://img.shields.io/badge/Coding-VS%20Code-blue)](https://code.visualstudio.com/)&emsp;
 [![Static Badge](https://img.shields.io/badge/Writing-Logseq-blue)](https://logseq.com/)
 
 I'm Alex Lee,a full stack developer, dedicated to simplicity and elegance.
 
 - 🔭 I’m currently working on [jotlin](https://github.com/labring/jotlin).
 - 🌱 I’m currently learning AI&editor principle,psychology&full-stack
-- 💬 Ask me about React,TypeScript and my projects on [3076438032@qq.com](mailto:3076438032@qq.com).
+- 💬 Ask me about React,TypeScript and my projects.
 - 😄 Pronouns: Focus on 5% change, not 100% perfection.
 - ⚡ Fun fact: Steam enthusiast & ISFP Coser & Adler Psychology
 
