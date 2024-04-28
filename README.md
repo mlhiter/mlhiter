@@ -19,5 +19,5 @@
 <div style="display: flex; justify-content: center;">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mlhiter&hide_title=true&show_icons=true&line_height=21" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlhiter&layout=compact" />
+  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=mlhiter" />
 </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlhiter" /> </div>
