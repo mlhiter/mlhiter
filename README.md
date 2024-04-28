@@ -9,7 +9,7 @@
 
 I'm Alex Lee,a full stack developer, dedicated to simplicity and elegance.
 
-<img align="right" height="400px" src="https://raw.githubusercontent.com/mlhiter/typora-images/master/202404290039041.png"/>
+<img align="right" height="350px" src="https://raw.githubusercontent.com/mlhiter/typora-images/master/202404290039041.png"/>
 
 - 🔭 I’m currently working on [jotlin](https://github.com/labring/jotlin).
 - 🌱 I’m currently learning AI&editor principle,psychology&full-stack
