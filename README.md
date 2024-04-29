@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" height="320px" src="https://raw.githubusercontent.com/mlhiter/typora-images/master/202404290039041.png"/>
+<img align="right" height="320px" style="margin:10px" src="https://raw.githubusercontent.com/mlhiter/typora-images/master/202404290039041.png"/>
 
 ![mlhiter](https://komarev.com/ghpvc/?username=mlhiter)&emsp;
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19254%26project%3D%26in=0)](https://codetime.dev)&emsp;
