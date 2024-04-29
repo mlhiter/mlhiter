@@ -17,7 +17,7 @@ I'm Alex Lee,a full stack developer, dedicated to simplicity and elegance.
 - 🌱 I’m currently learning AI&editor principle,psychology&full-stack.
 - 💬 Ask me about React,TypeScript and my projects.
 - 😄 Motto: Focus on 5% change, not 100% perfection.
-- ⚡ Fun fact: Steam enthusiast & ISFP Coser & Adler Psychology
+- ⚡ Fun fact: Steam enthusiast & ISFP Coser & Adler Psychology.
 
 > **_I love to make friends.About chat,growth or 🎮._**
 
