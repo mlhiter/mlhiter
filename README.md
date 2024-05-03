@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" height="340px" style="margin:10px" src="https://raw.githubusercontent.com/mlhiter/typora-images/master/202404290039041.png"/>
+<img align="right" height="360px" style="margin:10px" src="https://raw.githubusercontent.com/mlhiter/typora-images/master/202404290039041.png"/>
 
 ![mlhiter](https://komarev.com/ghpvc/?username=mlhiter)&emsp;
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19254%26project%3D%26in=0)](https://codetime.dev)&emsp;
@@ -18,7 +18,7 @@ I'm Alex Lee,a full stack developer, dedicated to simplicity and elegance.
 - 💬 Ask me about React,TypeScript and my projects.
 - 😄 Motto: Focus on 5% change, not 100% perfection.
 - ⚡ Fun fact: Steam enthusiast & ISFP Coser & Adler Psychology.
-- 💻 Blog: [article](https://www.mlhiter.top)->[pkm/note](https://mlhiter.github.io/logseq-note)
+- 💻 Blog: [Article website](https://www.mlhiter.top), [PKM Or Note](https://mlhiter.github.io/logseq-note)
 
 > **_I love to make friends.About chat,growth or 🎮._**
 
