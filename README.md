@@ -13,12 +13,12 @@
 
 I'm Alex Lee,a full stack developer, dedicated to simplicity and elegance.
 
-- 🔭 I’m currently working on [jotlin](https://github.com/labring/jotlin).
+- 🔭 I’m currently working on [sealos](https://github.com/labring/sealos),[laf](https://github.com/labring/laf),[jotlin](https://github.com/labring/jotlin).
 - 🌱 I’m currently learning AI&editor principle,psychology&full-stack.
 - 💬 Ask me about React,TypeScript and my projects.
 - 😄 Motto: Focus on 5% change, not 100% perfection.
 - ⚡ Fun fact: Steam enthusiast & ISFP Coser & Adler Psychology.
-- 💻 Blog: [Article website](https://www.mlhiter.top), [PKM or Note](https://mlhiter.github.io)
+- 💻 Blog: [Article Website](https://www.mlhiter.top), [My All-in-One Note and Life](https://mlhiter.github.io)
 
 > **_I love to make friends.About chat,growth or 🎮._**
 
