@@ -13,7 +13,7 @@
 
 I'm Alex Lee,a full stack developer, dedicated to simplicity and elegance.
 
-- 🔭 I’m currently working on [sealos](https://github.com/labring/sealos),[laf](https://github.com/labring/laf),[jotlin](https://github.com/labring/jotlin).
+- 🔭 I’m currently working on [sealos](https://github.com/labring/sealos),[jotlin](https://jotlin.ai).
 - 🌱 I’m currently learning AI&editor principle,psychology&full-stack.
 - 💬 Ask me about React,TypeScript and my projects.
 - 😄 Motto: Focus on 5% change, not 100% perfection.
