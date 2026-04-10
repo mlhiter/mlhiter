@@ -9,7 +9,7 @@
 
 [![VScode](https://img.shields.io/badge/Coding-VS%20Code-blue)](https://code.visualstudio.com/)&emsp;
 [![Logseq](https://img.shields.io/badge/Writing-Logseq-blue)](https://logseq.com/)&emsp;
-[![Omnivore](https://img.shields.io/badge/Reading-Omnivore-blue)](https://omnivore.app/)&emsp;
+[![Folo](https://img.shields.io/badge/Reading-Folo-blue)](https://folo.is/)&emsp;
 
 I'm Alex Lee,a full stack developer, dedicated to simplicity and elegance.
 
@@ -18,7 +18,7 @@ I'm Alex Lee,a full stack developer, dedicated to simplicity and elegance.
 - 💬 Ask me about React,TypeScript and my projects.
 - 😄 Motto: Focus on 5% change, not 100% perfection.
 - ⚡ Fun fact: Steam enthusiast & ISFP Coser & Adler Psychology.
-- 💻 Blog: [Article Website](https://www.mlhiter.top), [My All-in-One Note and Life](https://mlhiter.github.io).
+- 💻 Blog: [My All-in-One Note and Life](https://mlhiter.github.io).
 
 > **_I love to make friends.About chat,growth or 🎮._**
 
