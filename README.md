@@ -7,7 +7,7 @@
 ![mlhiter](https://komarev.com/ghpvc/?username=mlhiter)&emsp;
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D19254)](https://codetime.dev)
 
-[![VScode](https://img.shields.io/badge/Coding-VS%20Code-blue)](https://code.visualstudio.com/)&emsp;
+[![Zed](https://img.shields.io/badge/Coding-Zed-blue)](https://zed.dev/)&emsp;
 [![Logseq](https://img.shields.io/badge/Writing-Logseq-blue)](https://logseq.com/)&emsp;
 [![Folo](https://img.shields.io/badge/Reading-Folo-blue)](https://folo.is/)&emsp;
 
